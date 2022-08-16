@@ -1,2 +1,2 @@
 # assessment_contorion
-assessment task for QA position - Contorion
+assessment task for QA position
