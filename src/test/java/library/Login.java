@@ -52,12 +52,6 @@ public class Login extends BaseClass {
         }
     }
 
-    public void verifyHomePageTitle(){
-        String Title =driver.getTitle();
-        Assert.assertEquals("Contorion: Der smarte Shop fürs Handwerk", Title);
-        Log.info("Home page title -" + Title);
-    }
-    
     
     public void verifyLogin(String Email, String Password) {
     	
