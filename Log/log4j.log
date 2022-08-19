@@ -1,0 +1,19 @@
+2022-08-18 18:54:56 INFO  Log:22 - Browser name-chrome DriverName- chromedriver
+2022-08-18 18:54:56 INFO  Log:22 - /Users/ravimaurya/gitrepo/assessment/src/main/resources/drivers/chromedriver
+2022-08-18 18:55:04 INFO  Log:22 - Cookies are accepted from home page
+2022-08-18 18:55:04 INFO  Log:22 - Home page title -Contorion: Der smarte Shop fürs Handwerk
+2022-08-18 18:55:04 INFO  Log:22 - Browser name-chrome DriverName- chromedriver
+2022-08-18 18:55:04 INFO  Log:22 - /Users/ravimaurya/gitrepo/assessment/src/main/resources/drivers/chromedriver
+2022-08-18 18:55:11 INFO  Log:22 - Start - verifyLogin
+2022-08-18 18:55:12 INFO  Log:22 - Cookies are accepted from home page
+2022-08-18 18:55:15 INFO  Log:22 - Click on register
+2022-08-18 18:55:19 INFO  Log:22 - Enter email id
+2022-08-18 18:55:19 INFO  Log:22 - Enter password
+2022-08-18 18:55:19 INFO  Log:22 - Click on login button
+2022-08-18 18:55:28 INFO  Log:22 - Login confirmation message- Du bist nun bei Contorion angemeldet.
+2022-08-18 18:55:28 INFO  Log:22 - End - verifyLogin
+2022-08-18 18:55:28 INFO  Log:22 - Start - validateSearch
+2022-08-18 18:55:29 INFO  Log:22 - Enter the searchtext
+2022-08-18 18:55:29 INFO  Log:22 - Click seek button
+2022-08-18 18:55:36 INFO  Log:22 - Confirm search text-hammer
+2022-08-18 18:55:36 INFO  Log:22 - End - validateSearch
