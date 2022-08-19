@@ -1,24 +1,25 @@
-# assessment task
+# Assessment task
 
 ## Problem:
 
-Automation of below mentioned test scenario:
-Verify that a pre-registered user with a valid email and password is able to login in successfully.
+Automate below mentioned test scenario:
+Verify that a pre-registered user (with valid email and password) is able to log into the application successfully.
 
 ## Solution
 
-Automation of above mentioned test scenario using POM Based Page object model Selenium Automation Framework
+Automated test script which opens the application URL and log in the user using email id and password.
+POM Based Page object model Selenium Automation Framework is used to create the test script.
 
 ## Prerequisities
 
-- Eclipse IDE
+- IDE
 - Java
 - Selenium
 - Maven
 - Chrome browser
 - MAC/windows operating system
 
-##Automation project explaination
+## Project explaination
 1. Object Repository:
 UIMap is a concept for defining, storing, and serving UI elements of an application or a website. The UIMap properties file contains a set of ‘key-value’ pairs, where key is an alias of the UI element, and a value is the locator.
 2. Test Data:
@@ -35,7 +36,7 @@ Test report/results is a document which contains summary of test activities. Aft
 1. Selenium :
 Selenium is a well know open source testing framework, which is widely used for testing Web-based applications. Selenium Webdriver supports most of all browsers to run your test cases and many programming languages like C#, Java, Python, Ruby, .Net, Perl, PHP, etc. to create and modify your test scripts.
 
-2. EclipseIDE:
+2. Eclipse IDE:
 Eclipse is an integrated development environment (IDE) for Java. The Eclipse IDE is the most known product of the Eclipse Open Source project.
 
 3. Java:
@@ -60,29 +61,28 @@ Log4j is a fast, reliable and flexible logging framework which is written in jav
 Prerequisites :-
 You should have Java and Eclipse installed in your machine and Internet Connectivity.
 
-1. Clone the Repository (got clone https://github.com/bimalpreetkaur/assessment.git).
-2. Open Eclipse.
-3. Click on the File menu.
-4. Select Open Projects from file System.
-5. Click on directory.
-6. Locate the project.
-7. Click on finish.
-8. Build the dependencies using command mvn clean install.
-9. Go through the project file.
+Clone the Repository (got clone https://github.com/bimalpreetkaur/assessment.git).
+Open Eclipse.
+Click on the File menu.
+Select Open Projects from file System.
+Click on directory.
+Locate the project.
+Click on finish.
 
-Eexcute test - 
+Execute test -
 
-10. Right click on the Test1.java file which you want to execute.
-11. Click on Run as and then click on Maven test
-12. Observe the execution of test scripts.
+Go to root directory of the project and build the dependencies and execute test using mvn clean install.
 
-Output - 
+Test Output -
 
-13. Navigate to the test output folder.
-14. Navigate to surefire-reports folder.
-15. Open the index.html file for test output report.
-16. Navigate to Log folder
-17. Open log4j.log file for test logs.
+Test Report
+Navigate to the test output folder.
+Navigate to surefire-reports folder.
+Open the index.html file for test output report.
+
+Test Log
+Navigate to Log folder
+Open log4j.log file for test logs.
    
  
 # Limitations -
