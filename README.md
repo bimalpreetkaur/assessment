@@ -3,6 +3,7 @@
 ## Problem:
 
 Automate below mentioned test scenario:
+
 Verify that a pre-registered user (with valid email and password) is able to log into the application successfully.
 
 ## Solution
@@ -12,12 +13,12 @@ POM Based Page object model Selenium Automation Framework is used to create the 
 
 ## Prerequisities
 
-- IDE
 - Java
 - Selenium
 - Maven
 - Chrome browser
 - MAC/windows operating system
+- IDE (any IDE of your choice)
 
 ## Project explaination
 1. Object Repository:
@@ -59,30 +60,30 @@ Log4j is a fast, reliable and flexible logging framework which is written in jav
 ## Usage:
 
 Prerequisites :-
-You should have Java and Eclipse installed in your machine and Internet Connectivity.
+You should have Java and IDE installed in your machine and Internet Connectivity.
 
-Clone the Repository (got clone https://github.com/bimalpreetkaur/assessment.git).
-Open Eclipse.
-Click on the File menu.
-Select Open Projects from file System.
-Click on directory.
-Locate the project.
-Click on finish.
+- Clone the Repository (got clone https://github.com/bimalpreetkaur/assessment.git).
+- Open IDE.
+- Click on the File menu.
+- Select Open Projects from file System.
+- Click on directory.
+- Locate the project.
+- Click on finish.
 
 Execute test -
 
-Go to root directory of the project and build the dependencies and execute test using mvn clean install.
+- Go to root directory of the project and build the dependencies and execute test using mvn clean install.
 
 Test Output -
 
 Test Report
-Navigate to the test output folder.
-Navigate to surefire-reports folder.
-Open the index.html file for test output report.
+- Navigate to the test output folder.
+- Navigate to surefire-reports folder.
+- Open the index.html file for test output report.
 
 Test Log
-Navigate to Log folder
-Open log4j.log file for test logs.
+- Navigate to Log folder
+- Open log4j.log file for test logs.
    
  
 # Limitations -
