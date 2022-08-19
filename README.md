@@ -11,6 +11,8 @@ Verify that a pre-registered user (with valid email and password) is able to log
 Automated test script which opens the application URL and log in the user using email id and password.
 POM Based Page object model Selenium Automation Framework is used to create the test script.
 
+(All manual test scenarios are placed under test_scenarios folder)
+
 ## Prerequisities
 
 - Java
